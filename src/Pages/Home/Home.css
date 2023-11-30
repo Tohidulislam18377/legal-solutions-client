@@ -1,0 +1,33 @@
+.solution-banner{
+    background-image: url('../../assets/images/banner.png');
+   background-position-x: center;
+   background-color: linear-gradient(180deg, #111 0%, rgba(17, 17, 17, 0.00) 100%);
+   ;
+   /* padding-right: 100px; */
+   background-size: contain;
+   background-repeat: no-repeat;
+   height: 480px;
+
+ 
+}
+.input-search{
+    outline-style: none;
+}
+.card-line{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    column-gap: 20px;
+    row-gap: 40px;
+    margin: 0px 20px;
+    margin-bottom: 30px;
+
+}
+.contact{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    margin-left: 30px;
+}
+.message::placeholder{
+    color: var(--Dark-03, #707070);
+}
+
