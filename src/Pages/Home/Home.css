@@ -31,3 +31,8 @@
     color: var(--Dark-03, #707070);
 }
 
+.main::placeholder{
+    color: var(--Dark-03, #707070);
+
+}
+
