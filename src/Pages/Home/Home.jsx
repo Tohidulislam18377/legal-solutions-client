@@ -372,7 +372,7 @@ const Home = () => {
                     <p style={{ width: '217px', paddingBottom:'20px', paddingLeft:'20px' }}>Subscribe for our latest & Articles. We Won’t Give You Spam Mails</p>
                     <div style={{ display: 'flex', paddingRight: '20px', paddingLeft:'20px' }}>
                         <input style={{outlineStyle:'none', backgroundColor:"white", color:'black', paddingLeft:'10px', borderRadius:'5px 0px 0px 5px' }} type="email" name="" className="main" placeholder="Email" id="" />
-                        <button style={{ backgroundColor: '#B68C5A', borderRadius:'0px 5px 5px 0px' }}><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
+                        <button style={{ backgroundColor: '#B68C5A', borderRadius:'0px 5px 5px 0px', border:'0px' }}><svg xmlns="http://www.w3.org/2000/svg" width="34" height="34" viewBox="0 0 34 34" fill="none">
                             <g clip-path="url(#clip0_12_37)">
                                 <path d="M12.7279 21.2427L4.52197 16.8989C10.4846 13.6228 16.9629 11.3888 23.6775 10.2931C22.5826 17.0078 20.3492 23.4863 17.0738 29.4494L12.7279 21.2427ZM12.7279 21.2427L18.0312 15.9394" stroke="white" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round" />
                             </g>
